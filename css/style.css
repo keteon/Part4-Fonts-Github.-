@@ -1,3 +1,23 @@
-p {
-	color: green;
+/*fonts*/
+.kartuli-absoluturi {
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+}
+.kartuli-relatiuri {
+	    font-family: 'ALK Life';
+
+}
+.latinuri-absoluturi {
+	font-family: 'Zen Dots', serif;
+	text-indent: 50px;
+	line-height: 30px;
+	text-transform: capitalize;
+	font-weight: bold;
+	font-style: italic;
+}
+.latinuri-relatiuri {
+	font-family: 'Roboto':;
+}
+.container {
+	width: 1170px;
+	margin: 0 auto;
 }
